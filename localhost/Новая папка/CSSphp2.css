@@ -1,0 +1,122 @@
+    .body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.header {
+    padding-left: 100px;
+    padding-top: 10px;
+    color: white;
+    font-size: 30px;
+  
+}
+.il{
+    padding-left: 200px;
+    padding-top: 315px;
+    font-size: 28px;
+    word-spacing: 20px;
+}
+
+.vx {
+    padding-left: 500px;
+}
+
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #211d17;
+    color: white;
+    padding: 10px 0;
+}
+.log {
+    background-image: url("Снимок экрана 2024-04-15 183022.png");
+    width: auto;
+    height: 750px;
+
+}
+
+
+    
+
+.pro1{
+    background-image:url("1ч.webp");
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-left: 60px;
+    background-color: #fff;
+    font-size: 20px;
+
+}
+.pro2{
+    background-image:url("2ч.webp") ;
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-left: 60px;
+    background-color: #fff;
+    font-size: 20px;
+}  
+.pro3{
+    background-image:url("4ч.webp") ;
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-left: 60px;
+    background-color: #fff;
+    font-size: 20px;
+
+}
+.pro4{
+    background-image:url("3ч.webp") ;
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-left: 60px;
+    background-color: #fff;
+    font-size: 20px;
+
+}
+.otz{
+ padding-left: 80px;
+}
+.jnz{
+    padding-left: 20px; 
+}
+
